@@ -200,7 +200,7 @@ hr {
 }
 
 h1 {
-  font-size: 45px;
+  font-size: 26px;
 }
 
 h2 {
@@ -271,6 +271,15 @@ body {
 h1 {
   padding-top: 20px;
   color: #fff;
+}
+
+h1 svg {
+  width: 100%;
+  height: auto;
+}
+
+.grid-container {
+  padding-bottom: 40px;
 }
 
 .audio-files {
